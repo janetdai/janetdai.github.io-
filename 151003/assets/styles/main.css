@@ -1,0 +1,52 @@
+.nav a {
+    color: #5a5a5a;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 14px 10px;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron {
+    background-image: url(../img/kyoto.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron h1 {
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+    font-family: 'shift', sans-serif;
+}
+
+.jumbotron p {
+    color: white;
+    font-size: 20px;
+}
+
+.jumbotron a {
+    color: white;
+}
+
+.pic h2 {
+    font-family: 'shift', sans-serif;
+    font-weight: bold;
+}
+
+.learn-more {
+    background-color: rgb(245, 245, 245);
+}
+
+.learn-more h3 {
+    font-family: 'shift', sans-serif;
+    font-weight: bold;
+}
